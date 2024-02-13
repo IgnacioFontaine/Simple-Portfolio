@@ -333,6 +333,7 @@ footer {
   height: 80px;
   width: 80px;
   margin: 10px;
+  border-radius: 100px;
 }
 
 .footer-texto {
