@@ -19,9 +19,13 @@ section {
   justify-content: center;
 }
 
-h1 {
+/* h1 {
   font-size: 2.5rem;
   font-family: 'Rubik Dirt', cursive;
+} */
+h1 {
+  font-size: 2.5rem;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .seccion-oscura {
@@ -37,7 +41,7 @@ h1 {
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Libre Baskerville', serif;
 }
 
 .seccion-descripcion {
