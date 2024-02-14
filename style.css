@@ -115,15 +115,16 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #572900;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: #ffffff;
+  background-color: #271200;
   padding: 8px 19px;
   border-radius: 50%;
+  border-color: #fdab63;
 }
 
 .experiencia-titulo {
