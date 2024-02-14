@@ -192,6 +192,8 @@ h1 {
 
 .overlay .iconos-contenedor {
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .overlay i {
