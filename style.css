@@ -124,7 +124,7 @@ h1 {
   background-color: #271200;
   padding: 8px 19px;
   border-radius: 50%;
-  border-color: #fdab63;
+  border-color: #a76f3e;
 }
 
 .experiencia-titulo {
@@ -141,6 +141,7 @@ h1 {
 
 .badge {
   margin: 5px;
+  background-color: #7b4211;
 }
 
 /* Proyectos */
@@ -285,7 +286,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #7b4211;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -368,7 +369,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid #7b4211;
 }
 
 .iconos-redes-sociales a:hover i {
